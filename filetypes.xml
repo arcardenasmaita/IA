@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
-      <mapping pattern="*requirements*.txt" type="requirements.txt" />
+      <mapping ext="xes" type="XML" />
     </extensionMap>
   </component>
 </application>
