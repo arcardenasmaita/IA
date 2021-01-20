@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
+      <mapping ext="pt" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping pattern="test_script_pt" type="Python" />
       <mapping ext="xes" type="XML" />
     </extensionMap>
   </component>
