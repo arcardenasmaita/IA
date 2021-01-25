@@ -1,5 +1,6 @@
 <application>
   <component name="LightEdit">
+    <option name="autosaveMode" value="true" />
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
