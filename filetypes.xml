@@ -5,10 +5,8 @@
       <mapping pattern="results" type="PLAIN_TEXT" />
       <mapping pattern="questions_LOG" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="pt" type="PLAIN_TEXT" />
       <mapping pattern="test_script_pt" type="Python" />
       <mapping ext="xes" type="XML" />
-      <removed_mapping ext="pt" type="Chameleon" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
