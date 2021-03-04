@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
@@ -8,6 +8,8 @@
       <mapping ext="pt" type="PLAIN_TEXT" />
       <mapping pattern="test_script_pt" type="Python" />
       <mapping ext="xes" type="XML" />
+      <removed_mapping ext="pt" type="Chameleon" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
