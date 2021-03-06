@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="54.218.164.177" id="0aa02797-2f40-4ac7-bc6e-8cc9f30e856c" keyPath="D:\test-last.ppk" localPort="8888" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
