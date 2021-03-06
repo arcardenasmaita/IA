@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f775a658-3abf-42b9-8281-a67363e0c8f4" name="ubuntu@54.218.164.177:22:8888 key">
-        <fileTransfer accessType="SFTP" host="54.218.164.177" port="22" sshConfigId="0aa02797-2f40-4ac7-bc6e-8cc9f30e856c" sshConfig="ubuntu@54.218.164.177:22:8888 key" keyPair="true" />
+        <fileTransfer rootFolder="/home/ubuntu/ns-vqa" accessType="SFTP" host="54.218.164.177" port="22" sshConfigId="0aa02797-2f40-4ac7-bc6e-8cc9f30e856c" sshConfig="ubuntu@54.218.164.177:22:8888 key" keyPair="true" />
       </webServer>
     </option>
   </component>
